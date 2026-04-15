@@ -1,0 +1,16 @@
+15
+71C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\dist134207392793995863 1
+80C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\.dockerignore134207386922599020 0
+79C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\package.json134207392685788162 0
+77C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\.gitignore134207386922609515 0
+73C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\styles134207387733893456 1
+77C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\Dockerfile134207386923413113 0
+76C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\README.md134207386923413113 0
+70C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src134207387733873810 1
+83C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\styles\style.css134207387733893456 0
+83C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src\contact.html134207386923583608 0
+87C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src\destination.html134207387733873810 0
+82C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\dist\index.html134207392793995863 0
+83C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src\gallery.html134207391597339776 0
+81C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src\index.html134207386923583608 0
+84C:\Users\abkbu\OneDrive\Desktop\campus-event-devops2\campus-events\src\packages.html134207386923583608 0
