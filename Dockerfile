@@ -1,11 +1,11 @@
-# Use a light-weight web server as the base image
+# Use a lightweight web server image
 FROM nginx:alpine
 
-# Copy the built website from the dist folder to the server's public folder
-COPY ./dist /usr/share/nginx/html
+# Copy the built website files from the local 'dist' folder to the Nginx html folder
+COPY dist/ /usr/share/nginx/html/
 
-# Expose port 80 for browser access
+# Expose port 80
 EXPOSE 80
 
-# Start the server
+# Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
