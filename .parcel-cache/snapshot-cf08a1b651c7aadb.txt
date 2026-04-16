@@ -1,0 +1,23 @@
+22
+43C:\Users\LENOVO\campus-events\.dockerignore134207396332416079 0
+42C:\Users\LENOVO\campus-events\package.json134207420359791654 0
+47C:\Users\LENOVO\campus-events\package-lock.json134207415208786617 0
+34C:\Users\LENOVO\campus-events\dist134207420435499399 1
+40C:\Users\LENOVO\campus-events\.gitignore134207396332425929 0
+33C:\Users\LENOVO\campus-events\src134207397811313404 1
+40C:\Users\LENOVO\campus-events\Dockerfile134207396332425929 0
+39C:\Users\LENOVO\campus-events\README.md134207396332425929 0
+36C:\Users\LENOVO\campus-events\styles134207397811313404 1
+46C:\Users\LENOVO\campus-events\styles\style.css134207397811313404 0
+46C:\Users\LENOVO\campus-events\src\contact.html134207396332435937 0
+50C:\Users\LENOVO\campus-events\src\destination.html134207397811313404 0
+46C:\Users\LENOVO\campus-events\src\gallery.html134207396332435937 0
+44C:\Users\LENOVO\campus-events\src\index.html134207396332435937 0
+47C:\Users\LENOVO\campus-events\src\packages.html134207419247161928 0
+47C:\Users\LENOVO\campus-events\dist\contact.html134207420434937896 0
+51C:\Users\LENOVO\campus-events\dist\destination.html134207420435479315 0
+47C:\Users\LENOVO\campus-events\dist\gallery.html134207420435035832 0
+45C:\Users\LENOVO\campus-events\dist\index.html134207420435102794 0
+56C:\Users\LENOVO\campus-events\dist\packages.bb18e173.css134207420435479315 0
+60C:\Users\LENOVO\campus-events\dist\packages.bb18e173.css.map134207420435499399 0
+48C:\Users\LENOVO\campus-events\dist\packages.html134207420435479315 0
